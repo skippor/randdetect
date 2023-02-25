@@ -1,2 +1,2 @@
 # randdetect
-rand detect in many way
+rand detect tool
